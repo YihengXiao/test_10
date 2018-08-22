@@ -1,2 +1,4 @@
 hello world Hello py.integrate x from 0 to infinity. f(x)=1/x^2
 The integral diverges.
+Technician Tamika Morales
+e-mail: tm497@cornell.edu
